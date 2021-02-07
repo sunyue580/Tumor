@@ -1,4 +1,4 @@
-setwd('C:\\Users\\think\\Desktop\\data3')
+####参考：https://www.jianshu.com/p/da1dbbf793ab
 
 #################################1、数据预处理
 rm(list=ls())
